@@ -1,0 +1,18 @@
+# Practica 1
+Analizar y diseñar la solución para el siguiente problema:
+Definición: ¿Que tengo que hacer para ir al cine a ver Dr Strange?
+
+# SOLUCION
+Punto de origen: desconocido
+Destino: cine mas cercano
+Objetivo: ver Dr Strange
+
+1. Segun tu punto de origen, identifica el cine mas cercano.
+2. Dirigete al cine.
+**PROCESO DE LLEGAR** 
+   (Elige un medio de transporte)
+   (Entra al cine)
+3. Compra un boleto en la caja o **dulceria**.
+4. Dirigete a la sala de cine que indica el boleto.
+5. Toma asiento.
+6. Disfruta la pelicula
